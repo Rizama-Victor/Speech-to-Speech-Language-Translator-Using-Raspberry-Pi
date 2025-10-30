@@ -274,7 +274,7 @@ The Speech-to-Speech Language Translator is a prototype that enables real-time t
 
 ## 👥 Contributors
 
-- **Rizama Victor Samuel**  [GitHub: Rizama03](https://github.com/Rizama03)
+- **Rizama Victor Samuel**  [GitHub: Rizama-Victor](https://github.com/Rizama-Victor)
 - **Ifeoluwa Omole**  [GitHub: andy-ife](https://github.com/andy-ife)
 - **Ahmad Abubakar Sadiq**  [GitHub: Dantama022](https://github.com/Dantama022)
 - **Yero Muhammad Bunuyaminu**  [GitHub: MubarakYero](https://github.com/MubarakYero)
