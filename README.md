@@ -253,7 +253,7 @@ The API supports transcription and translation for the following languages:
 - Igbo
 - English
   
-**Note:** In this application, the project focused on Translation of Hausa to English
+**Note:** In this application, the project focused on Translation of Hausa to English.
 
 ### Workflow
 - **Speech-to-Text**: The system starts by first recording the user's speech input in Hausa using the microphone. The recorded audio in `.wav` format is then sent via the API as an input to the [Spitch model](https://spi-tch.com/) for transcription into Hausa text.
